@@ -26,7 +26,7 @@ settings, and supplementary data files associated with the manuscript:
 
 7. Network Analysis: Cytoscape v3.8.0 (miRNA-target network); STRING v11.5 (PPI, confidence >= 0.4).
 
-## Supplementary Files (deposited on Figshare, DOI: see manuscript)
+## Supplementary Files (deposited on Figshare, DOI: 10.6084/m9.figshare.32688501)
 
 - Additional_file_1.csv - List of 110 identified miRNAs with sequence, length,
   classification (conserved/novel), miRNA family, pre-miRNA coordinate, MFE, MFEI, AU content.
