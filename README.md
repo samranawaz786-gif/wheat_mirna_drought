@@ -1,5 +1,6 @@
 # Computational Workflow and Supplementary Data for "In Silico Identification and Functional Annotation of Drought-Responsive miRNAs in Wheat"
 
+Note: This repository provides the computational workflow, software versions, parameter settings, and links to the deposited supplementary datasets. No custom source code was developed for this study; all analyses were performed using publicly available bioinformatics databases and software as described in the manuscript.
 This repository documents the complete in silico workflow, tool versions, parameter
 settings, and supplementary data files associated with the manuscript:
 'In Silico Identification and Functional Annotation of Drought-Responsive miRNAs in Wheat'
